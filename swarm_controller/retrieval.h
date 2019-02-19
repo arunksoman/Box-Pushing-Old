@@ -1,10 +1,3 @@
-/*
- * retrieval.h
- *
- *  Created on: 17. mars 2011
- *      Author: jannik
- */
-
 #ifndef PUSH_H_
 #define PUSH_H_
 
