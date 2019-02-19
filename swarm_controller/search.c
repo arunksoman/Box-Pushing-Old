@@ -1,16 +1,3 @@
-/*
- * search.c - Search and Avoid behavior.
- *
- *	Made to calculate the speed from distance sensors input.
- *	By getting sensor input from the four front distance sensors on the e-puck
- *	it will be determined the speed of the left and right wheel according to
- *	the case script and a threshold. If nothing is in your way - search.
- *
- *	case script: the four first int's are the sensor input, while the last two are speed
- *  Created on: 17. mars 2011
- *      Author: jannik
- */
-
 #include <stdlib.h>
 #include <time.h>
 
