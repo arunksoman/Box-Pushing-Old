@@ -1,12 +1,3 @@
-/*
- * stagnation.c Stagnation recovery behavior
- *
- * Whenever the e-puck reason about his push behavior not being effective,
- * the stagnation behavior should trigger. This behavior will reposition the
- * robot, hopefully getting a spot which will result
- *  Created on: 23. mars 2011
- *      Author: jannik
- */
 #include "search.h"
 #include <stdlib.h>
 #include <stdio.h>
