@@ -1,10 +1,3 @@
-/*
- * stagnation.h
- *
- *  Created on: 23. mars 2011
- *      Author: jannik
- */
-
 #ifndef STAGNATION_H_
 #define STAGNATION_H_
 
