@@ -1,10 +1,3 @@
-/*
- * retrieval.c - Follow and push behavior.
- *
- *	Made to make the e-puck converge and push the box.
- *  Created on: 17. mars 2011
- *      Author: jannik
- */
 #include <stdio.h>
 
 #define NB_LEDS 8
