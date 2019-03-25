@@ -2,7 +2,7 @@
  * search.h
  *
  *  Created on: 17. mars 2011
- *      Author: jannik
+ *      Author: 
  */
 
 #ifndef SEARCH_H_
